@@ -9,6 +9,12 @@ const Navbar = () => {
           <ul className="flex space-x-6">
             <li className="cursor-pointer text-[#473E6D] font-bold ">Home </li>
             <li  className="cursor-pointer text-[#473E6D] font-bold ">Solution{<ExpandMoreIcon/>}</li>
+
+
+
+
+
+            
             <li className="cursor-pointer text-[#473E6D] font-bold">Why-System-3{<ExpandMoreIcon/>}</li>
             <li className="cursor-pointer text-[#473E6D] font-bold">About Us{<ExpandMoreIcon/>}</li>
             <li className="cursor-pointer text-[#473E6D] font-bold">Contact Us  </li>
